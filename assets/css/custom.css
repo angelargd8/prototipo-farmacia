@@ -1,0 +1,51 @@
+/*
+Custom Css
+*/
+.titulo-nav{
+    color: #FFF !important;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.navbar{
+    background-color: #01257d !important;
+    color: #FFF !important;
+}
+
+
+.imgnav{
+    margin-left: 20%;
+}
+
+.carouseldiv{
+    background-color: #bbb1ff1c !important;
+}
+
+.botones-fechas{
+    color: #1B2587 !important;
+    font-size: xx-large;
+}
+
+
+.fondobtnnav{
+    background-color: transparent !important;
+    border: none !important;
+    margin: -25px;
+}
+
+.transparente{
+    background-color: transparent !important;
+}
+
+.color-footer{
+    background-color: #264653 !important;
+}
+
+.color-footer2{
+    background-color: #26465398 !important;
+}
+
+.color-boton{
+    background-color: #675BBC !important;
+    color: #FFF;
+}
